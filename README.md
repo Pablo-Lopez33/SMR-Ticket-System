@@ -7,3 +7,7 @@ Each ticket requires the following information: First name/Last name, phone numb
 This program allows units to be checked in, marked as "In Progress", "Waiting for parts", "Closed", "Not Repairable"
 
 It will have a lookup function to check the status of tickets/units. 
+
+Similar Projects:
+https://github.com/GeraldTgit/aharts.git
+https://www.youtube.com/watch?v=M-e-h2ujlCo
