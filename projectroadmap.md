@@ -9,12 +9,12 @@
 - [x] Initial code testing
 - [x] Find and evaluate existing code for project
 - [x] Clone the found code to the repo
-- [ ] Start implementing your own code to the SMRTS code fila
+- [x] Start implementing your own code to the SMRTS code fila
 
 ##  Sprint 2
-- [ ] Implement SMRTS functional code
-- [ ] Perform functionality testing
-- [ ] Revise and optimize code
+- [x] Implement SMRTS functional code
+- [x] Perform functionality testing
+- [x] Revise and optimize code
 
 ##  Sprint 3
 - [ ] Add final touches to the code
