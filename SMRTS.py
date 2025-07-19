@@ -26,7 +26,7 @@ while run == True:
     print("1. Create Ticket")
     print("2. View Tickets")
     print("3. Resolve Ticket")
-    print("4. Exit")
+    print("86. Exit") # Play on words since 86 is the number for "no more" in restaurant lingo, "86 SMRTS app"
     print("Please select an option: ")
     choice = input()
     if choice == '1':
@@ -64,7 +64,7 @@ while run == True:
             else:
                 print("Ticket ID not found.")
         spacing()
-    elif choice == '4':
+    elif choice == '86':
          print("Exiting the app. Goodbye!")
          run = False # Exit the app
     else:
