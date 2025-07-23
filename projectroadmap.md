@@ -17,15 +17,15 @@
 - [x] Revise and optimize code
 
 ##  Sprint 3
-- [ ] Add final touches to the code
-- [ ] Final check for functionality 
-- [ ] Build PowerPoint slides
+- [x] Add final touches to the code
+- [x] Final check for functionality 
+- [x] Build PowerPoint slides
       
 
 ##  Final Presentation Tasks
-- [ ] Schedule presentation date
-- [ ] Deliver final presentation
-- [ ] Submit presentation materials
+- [x] Schedule presentation date
+- [x] Deliver final presentation
+- [x] Submit presentation materials
 
 ##  Project Ownership
 All tasks assigned to: **Pablo Cesar Chavez-Lopez**
